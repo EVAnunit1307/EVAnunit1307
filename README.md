@@ -43,16 +43,16 @@ Most recently, I've been focused on **geospatial 3D engines** and **computer vis
 
 ### 🏆 Featured Projects & Awards
 
-* [cite_start]**CyberSea** – 🥇 *1st Place Overall & 2nd Place Thales Challenge @ uOttaHack 8*
-  * [cite_start]Architected a real-time Arctic strategy simulator with a 3D geospatial engine using **Next.js** and **Three.js**
-* [cite_start]**CityPath** – 🏅 *Shopify CUTC Hackathon Finalist* [cite: 33, 40]
-  * [cite_start]Built an intersection safety app using **Google Maps API** and **LangChain** to generate AI-driven safety recommendations
-* [cite_start]**Animatch** – 100+ Users [cite: 28]
-  * [cite_start]Developed an image-to-features pipeline using **MediaPipe** and **FastAPI** to match users to characters
+* **CyberSea** – 🥇 *1st Place Overall & 2nd Place Thales Challenge @ uOttaHack 8*
+  * Architected a real-time Arctic strategy simulator with a 3D geospatial engine using **Next.js** and **Three.js**
+* **CityPath** – 🏅 *Shopify CUTC Hackathon Finalist* 
+  * Built an intersection safety app using **Google Maps API** and **LangChain** to generate AI-driven safety recommendations
+* **Animatch** – 100+ Users 
+  * Developed an image-to-features pipeline using **MediaPipe** and **FastAPI** to match users to characters
 
 ---
 
 ### 📫 Connect with me
-* 💼 [LinkedIn]([https://linkedin.com/in/evan]) [cite: 3]
-* 📧 [evan.sl1307@gmail.com](mailto:evan.sl1307@gmail.com) [cite: 3]
-* 🛠️ GitHub: [EVAnunit1307](https://github.com/EVAnunit1307) [cite: 3]
+* 💼 [LinkedIn]([https://linkedin.com/in/evan]) 
+* 📧 [evan.sl1307@gmail.com](mailto:evan.sl1307@gmail.com) 
+* 🛠️ GitHub: [EVAnunit1307](https://github.com/EVAnunit1307) 
