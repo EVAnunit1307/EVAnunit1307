@@ -53,6 +53,6 @@ Most recently, I've been focused on **geospatial 3D engines** and **computer vis
 ---
 
 ### 📫 Connect with me
-* 💼 [LinkedIn]([https://linkedin.com/in/evan]) 
+* 💼 [LinkedIn](https://www.linkedin.com/in/evan-liem-178443340/) 
 * 📧 [evan.sl1307@gmail.com](mailto:evan.sl1307@gmail.com) 
 * 🛠️ GitHub: [EVAnunit1307](https://github.com/EVAnunit1307) 
