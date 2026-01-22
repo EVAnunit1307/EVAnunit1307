@@ -52,13 +52,6 @@ Most recently, I've been focused on **geospatial 3D engines** and **computer vis
 
 ---
 
-### 💼 Experience
-
-* **Data Analyst @ LSI Inc** – Engineered **Power BI** dashboards and DAX measures for EV infrastructure planning[cite: 10, 11, 16, 17].
-* **Robotics Lead @ 82855Z** – Developed **C++** autonomous routines for a 9th internationally ranked VEX team[cite: 18, 19, 20].
-
----
-
 ### 📫 Connect with me
 * 💼 [LinkedIn]([https://linkedin.com/in/evan]) [cite: 3]
 * 📧 [evan.sl1307@gmail.com](mailto:evan.sl1307@gmail.com) [cite: 3]
