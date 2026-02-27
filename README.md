@@ -2,7 +2,6 @@
 
 I'm a **Management Engineering** student at the **University of Waterloo**. I specialize in building real-time simulations, data-driven applications, and AI-integrated pipelines. 
 
-Most recently, I've been focused on **geospatial 3D engines** and **computer vision**.
 
 ---
 
