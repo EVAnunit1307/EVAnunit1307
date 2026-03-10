@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Evan Liem!
 
-I'm a **Management Engineering** student at the **University of Waterloo**. I specialize in building real-time simulations, data-driven applications, and AI-integrated pipelines. 
+I'm a **Management Engineering** student at the **University of Waterloo**. 
 
 
 ---
