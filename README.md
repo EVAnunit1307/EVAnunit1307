@@ -46,7 +46,7 @@ I'm a **Management Engineering** student at the **University of Waterloo**.
   * Architected a real-time Arctic strategy simulator with a 3D geospatial engine using **Next.js** and **Three.js**
 * **CityPath** – 🏅 *Shopify CUTC Hackathon Finalist* 
   * Built an intersection safety app using **Google Maps API** and **LangChain** to generate AI-driven safety recommendations
-* **Animatch** – 100+ Users 
+* **Animatch** – 1000+ Users 
   * Developed an image-to-features pipeline using **MediaPipe** and **FastAPI** to match users to characters
 
 ---
