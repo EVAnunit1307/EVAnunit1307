@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Evan Liem!
+# Hi there, I'm Evan Liem!
 
 I'm a **Management Engineering** student at the **University of Waterloo**. 
 
@@ -39,15 +39,6 @@ I'm a **Management Engineering** student at the **University of Waterloo**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EVAnunit1307&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
-
-### 🏆 Featured Projects & Awards
-
-* **CyberSea** – 🥇 *1st Place Overall & 2nd Place Thales Challenge @ uOttaHack 8*
-  * Architected a real-time Arctic strategy simulator with a 3D geospatial engine using **Next.js** and **Three.js**
-* **CityPath** – 🏅 *Shopify CUTC Hackathon Finalist* 
-  * Built an intersection safety app using **Google Maps API** and **LangChain** to generate AI-driven safety recommendations
-* **Animatch** – 1000+ Users 
-  * Developed an image-to-features pipeline using **MediaPipe** and **FastAPI** to match users to characters
 
 ---
 
