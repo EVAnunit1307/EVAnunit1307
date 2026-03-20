@@ -30,8 +30,7 @@ I'm a **Management Engineering** student at the **University of Waterloo**.
 <div align="center">
 
   ## My GitHub Stats 🦉
-  <img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/7a8c89f4-a308-4440-b3d7-904c51635ab0" />
-
+  <img src="https://raw.githubusercontent.com/EVAnunit1307/EVAnunit1307/main/metrics.plugin.isocalendar.svg" alt="My 3D Commit Calendar" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVAnunit1307&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 
   <br/>
